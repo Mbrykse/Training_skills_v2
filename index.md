@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Welcome: It's my first meeting with GitHub
 ---
 
